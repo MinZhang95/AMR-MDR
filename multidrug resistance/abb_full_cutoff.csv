@@ -1,0 +1,39 @@
+abb,full,interm,resistant,note,class
+CCV,Ceftazidime-clavulanic acid,8,16,,Cephems
+CEQ,Cefquinome,,,,unknown1
+CTC,Cefotaxime-clavulanic acid,2,4,,Cephems
+AMC,Amoxicillin-clavulanic acid,16,32,,Beta-lactam
+AMI,Amikacin,32,64,,Aminoglycosides
+AMP,Ampicillin,16,32,,Penicillins
+ATM,Aztreonam,8,16,,Monobactams
+AXO,Ceftriaxone,2,4,,Cephems
+AZI,Azithromycin,32,32,,Macrolides
+CAZ,Ceftazidime,8,16,,Cephems
+CEP,Cephalothin,16,32,,Cephems
+CHL,Chloramphenicol,16,32,,Phenicols
+CIP,Ciprofloxacin,0.125,1,,Quinolones
+CLI,Clindamycin,,,,Lincosamides
+COT,Trimethoprim-sulfamethoxazole,4,4,,Folate
+CTX,Cefotaxime,2,4,,Cephems
+ERY,Erythromycin,,,,Macrolides
+FEP,Cefepime,4,16,,Cephems
+FFN,Florfenicol,,,,Phenicols
+FIS,Sulfisoxazole,512,512,,Folate
+FOX,Cefoxitin,16,32,,Cephems
+GEN,Gentamicin,8,16,,Aminoglycosides
+IMI,Imipenem,2,4,,Penems
+KAN,Kanamycin,32,64,,Aminoglycosides
+NAL,Naladixic acid,32,32,,Quinolones
+PTZ,Piperacillin-tazobactam,32,128,,Beta-lactam
+SMX,Sulfamethoxazole,512,512,,Folate
+STR,Streptomycin,32,32,,Aminoglycosides
+TEL,Telithromycin,,,,Ketolides
+TET,Tetracycline,8,16,,Tetracyclines
+TIO,Ceftiofur,4,8,,Cephems
+TET1,Tetracycline,,,,
+TET2,Tetracycline,,,,
+GEN1,Gentamicin,,,,
+GEN2,Gentamicin,,,,
+CIP1,Ciprofloxacin,,,,
+CIP2,Ciprofloxacin,,,,
+APR,Apramycin,16,32,Retail unavailable,Aminocyclitols
