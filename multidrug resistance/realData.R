@@ -33,7 +33,7 @@ res <- stan(
   data = datls, 
   init = initf, 
   chains = 3, 
-  iter = 6000, 
+  iter = 10000, 
   pars = c("p1", "p2", "delta", 
            "Beta1", "Beta2", 
            "Sigma", "R", 
