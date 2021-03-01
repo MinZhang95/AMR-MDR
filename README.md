@@ -1,2 +1,2 @@
 # AMR-MDR
-CH3
+Antimicrobial multidrug resistance
